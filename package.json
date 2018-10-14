@@ -1,29 +1,36 @@
 {
-  "name": "email-editor",
+  "name": "react-email-creator",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
     "downloadjs": "^1.4.7",
     "graceful-fs": "^4.1.11",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
     "react-email-editor": "^0.9.0",
     "react-scripts": "2.0.5",
-    "semantic-ui-css": "^2.3.3",
-    "semantic-ui-react": "^0.82.3"
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.82.5",
+    "styled-components": "^3.4.10"
   },
   "devDependencies": {
-    "eslint": "^5.3.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jest": "^21.18.0",
-    "eslint-plugin-jsx-a11y": "^6.1.1",
-    "eslint-plugin-react": "^7.11.0"
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.0",
+    "react-test-renderer": "^16.5.2"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
