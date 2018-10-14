@@ -1,0 +1,131 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Home Component 1`] = `
+<div
+  className="ui grid"
+  style={
+    Object {
+      "backgroundColor": "#eee",
+    }
+  }
+>
+  <div
+    className="centered row"
+    style={
+      Object {
+        "marginTop": 20,
+      }
+    }
+  >
+    <div
+      className="center aligned middle aligned column"
+    >
+      <h1
+        className="ui header"
+      >
+        Super(man) Email Editor
+      </h1>
+    </div>
+  </div>
+  <div
+    className="two column row"
+  >
+    <div
+      className="center aligned column"
+    >
+      <div
+        className="ui buttons"
+      >
+        <button
+          className="ui blue icon left labeled button"
+          onClick={[Function]}
+          role="button"
+        >
+          <i
+            aria-hidden="true"
+            className="share square icon"
+          />
+          Export HTML
+        </button>
+        <div
+          className="or"
+          data-text="or"
+        />
+        <button
+          className="ui teal icon left labeled button"
+          onClick={[Function]}
+          role="button"
+        >
+          <i
+            aria-hidden="true"
+            className="world icon"
+          />
+          See Output In Your Browser
+        </button>
+      </div>
+    </div>
+    <div
+      className="center aligned column"
+    >
+      <input
+        id="fileLoader"
+        name="files"
+        onChange={[Function]}
+        style={
+          Object {
+            "display": "none",
+          }
+        }
+        title="Load File"
+        type="file"
+      />
+      <div
+        className="ui buttons"
+      >
+        <button
+          className="ui blue icon left labeled button"
+          onClick={[Function]}
+          role="button"
+        >
+          <i
+            aria-hidden="true"
+            className="cloud download icon"
+          />
+          Download Project
+        </button>
+        <div
+          className="or"
+          data-text="or"
+        />
+        <button
+          className="ui teal icon left labeled button"
+          onClick={[Function]}
+          role="button"
+        >
+          <i
+            aria-hidden="true"
+            className="folder open icon"
+          />
+          Open Project
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="column"
+    >
+      <div
+        className="sc-bdVaJa loEWuV"
+      >
+        <div
+          className="sc-bwzfXH dnurBo"
+          id="editor"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
