@@ -7,8 +7,8 @@
     "graceful-fs": "^4.1.11",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-email-editor": "^0.8.2",
-    "react-scripts": "1.1.5",
+    "react-email-editor": "^0.9.0",
+    "react-scripts": "2.0.5",
     "semantic-ui-css": "^2.3.3",
     "semantic-ui-react": "^0.82.3"
   },
