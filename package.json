@@ -4,22 +4,25 @@
   "private": false,
   "dependencies": {
     "downloadjs": "^1.4.7",
-    "graceful-fs": "^4.1.11",
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2",
-    "react-email-editor": "^0.9.0",
-    "react-scripts": "2.1.0",
+    "graceful-fs": "^4.2.3",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-email-editor": "^1.0.0",
+    "react-scripts": "3.3.0",
     "semantic-ui-css": "^2.4.1",
-    "semantic-ui-react": "^0.83.0",
-    "styled-components": "^4.0.0"
+    "semantic-ui-react": "^0.88.2",
+    "styled-components": "^4.4.1"
   },
   "devDependencies": {
-    "eslint-config-airbnb": "^17.1.0",
-    "eslint-plugin-import": "^2.14.0",
-    "eslint-plugin-jest": "^21.18.0",
-    "eslint-plugin-jsx-a11y": "^6.1.2",
-    "eslint-plugin-react": "^7.11.0",
-    "react-test-renderer": "^16.5.2"
+    "eslint-config-airbnb": "18.0.1",
+    "eslint-config-prettier": "^6.8.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jest": "^22.17.0",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "react-test-renderer": "^16.12.0"
   },
   "scripts": {
     "start": "react-scripts start",
